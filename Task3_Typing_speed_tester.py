@@ -40,3 +40,4 @@ print(f"typing speed Characters_Per_Second(CPS) is: {characters_per_second:.2f}"
 print(f"typing speed Characters_Per_Minute(CPM) is: {characters_per_minute:.2f}" )
 print(f"typing speed Words_Per_Second(WPS) is: {words_per_second:.2f}" )
 print(f"typing speed Words_Per_Minute(WPM) is: {words_per_minute:.2f}" )
+
